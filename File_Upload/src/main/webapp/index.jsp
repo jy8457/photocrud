@@ -14,6 +14,6 @@
 	</form>
 	<HR>
 	<a href="fileDownload.jsp">파일 다운로드 페이지</a>
-	<a href="filedown.jsp">파일 다운로드 페이지222</a>
+	<!-- <a href="filedown.jsp">파일 다운로드 페이지222</a> -->
 </body>
 </html>
